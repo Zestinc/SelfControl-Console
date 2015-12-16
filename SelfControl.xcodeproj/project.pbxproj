@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		42991D0A1BAB6AD400CB04AB /* SelfControl */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SelfControl; sourceTree = BUILT_PRODUCTS_DIR; };
 		42991D0D1BAB6AD400CB04AB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		42991D151BAB6F5300CB04AB /* selfcontrol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = selfcontrol.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		42991D0C1BAB6AD400CB04AB /* SelfControl */ = {
 			isa = PBXGroup;
 			children = (
+				42991D151BAB6F5300CB04AB /* selfcontrol.h */,
 				42991D0D1BAB6AD400CB04AB /* main.cpp */,
 			);
 			path = SelfControl;
